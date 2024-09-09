@@ -8,9 +8,10 @@
 # print(len(str1))
 
 # str = "i love india"
-# str = str.capitalize()
-# print(str.endswith("ia"))
-# print(str.endswith("la"))
+#str_uppercase = str.upper()
+#print(str_uppercase)
+# print(str.endswith("ia")) #you will get bollean value
+# print(str.endswith("la")) #you will get bollean value
 # print(str.replace("i" , "I"))
 # print(str.find("e"))
 # print(str.find("y"))pravin
@@ -23,9 +24,8 @@
 # print(str.count("s"))
 
 # age =21 
-
 # if(age >= 18):
-#     print("can vote &bapply for license")
+#     print("can vote & apply for license")
 #     print("can drive")
 
 # light = "green"
@@ -71,23 +71,21 @@
 #     print("Grade D")
 
 # #print("Marks of Students", str)
+------------------------------------------------------------------------
+# age = int(input("Enter the age of person:", ))
 
-# age = 89
+# if(age >= 65):
+#     print("Person is over aged")
 
-# if (age >= 18):
-#     if(age >= 80):
-#         print("cannot drive")
-#     else:
-#         print("can drive")
-# else:
-#     print("cannot drive")
-
-# num = int(input("eneter number: "))
-
-
-# if(num % 2 == 0):
-#     print("EVEN")
+# elif(age <= 18):
+#     print("Person is below the age")
     
+# else:
+#     print("Can drive")
+------------------------------------------------------------------------------
+# num = int(input("enter number: "))
+# if(num % 2 == 0):
+#     print("EVEN")    
 # else:
 #     print("ODD")
 
@@ -121,7 +119,7 @@
 # else:
 #     print("fourth number is largest: ",d)
     
-# x = int(input("enter number: "))
+# x = int(input("enter number: "))  
 
 # if(x % 7 == 0):
 #     print("multiple of 7")
