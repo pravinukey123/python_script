@@ -35,7 +35,3 @@
 # print("avg:", (a+b)/2)
 
 
-a = int(input("enter first:"))
-b = int(input("eneter second:"))
-
-print("output:",  a >= b)
