@@ -17,7 +17,7 @@
 
 # List = [2, 1, 3]
 # # List.append(4)
-# print(List.sort(reverse= True))
+#(List.sort(reverse= True))
 # print(List)
 
 # list = ["a", "b", "c", "d", "e"]
@@ -37,7 +37,7 @@
 # print(list)
 
 # list = [1,2,3,4,5]
-# list.pop(2)
+# list.pop(2) #Removing an Item
 # print(list)
 
 # Tuple
