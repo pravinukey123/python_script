@@ -31,7 +31,7 @@ student = {
 
 # print(list(student.values()))
 # pairs = list((student.items()))
-# print(pairs[1])
+#print(student["subjects"]["phy"])
 
 # print(student["name"])
 # print(student.get("name"))
@@ -59,8 +59,8 @@ student = {
 
 # set1 = {1,2,3}
 # set2 = {2,3,4}
-# print(set1.union(set2))
-# print(set1.intersection(set2))
+# print(set1.union(set2)) #It will remove common of both set 
+# print(set1.intersection(set2)) #It will shows the common number of both sets
 
 # guide = {
     
